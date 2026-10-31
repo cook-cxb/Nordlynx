@@ -1,0 +1,13 @@
+{
+  "source": "https://nordlys-template.framer.website/",
+  "platform": "framer",
+  "captureMode": "html-with-runtime",
+  "generatedAt": "2026-10-31T10:20:23.362Z",
+  "assets": 204,
+  "failedAssets": [],
+  "subpages": 0,
+  "visualValidation": "not-run",
+  "limitations": [
+    "Server-side accounts, payments, search and form processing are not exported."
+  ]
+}

@@ -1,0 +1,49 @@
+[10:18:18] [info] Source   : [4mhttps://nordlys-template.framer.website/[24m
+[10:18:18] [info] Output   : [38;2;250;178;131m/home/baymax/FramerExport/nordlys[39m
+[10:18:18] [info] Platform : [38;2;250;178;131mFramer[39m
+[10:18:18] [info] DPR      : [38;2;250;178;131m1[39m
+[10:18:18] [info] Subpages : [38;2;128;128;128mdisabled (pass --subpages to crawl the whole site)[39m
+[10:18:18] [log] Output directory structure created
+[10:18:18] [log] Fetching SSR HTML from https://nordlys-template.framer.website/
+[10:18:20] [ok] SSR HTML fetched (318.6 KB)
+[10:18:20] [log] Launching headless Chromium...
+[10:18:22] [ok] Chromium launched
+[10:18:22] [log] Stealth hardening applied (Chrome 156.0.8078.79)
+[10:18:22] [log] Viewport set to 1440x900 at 1x DPR
+[10:18:22] [log] Blocking 8 tracking domains:
+[10:18:22] [log]   - sentry.io
+[10:18:22] [log]   - www.googletagmanager.com
+[10:18:23] [log]   - connect.facebook.net
+[10:18:23] [log]   - stats.g.doubleclick.net
+[10:18:23] [log]   - google-analytics.com
+[10:18:23] [log]   - events.framer.com
+[10:18:23] [log]   - api.framer.com
+[10:18:23] [log]   - collect.frameranalytics.com
+[10:18:23] [log] Network interception enabled
+[10:18:23] [info] Navigating to https://nordlys-template.framer.website/
+[10:18:26] [ok] Document loaded; waiting for page content and resources
+[10:18:26] [log] Intercepted 37 resources, blocked 1 tracking requests, skipped 0 platform assets
+[10:18:26] [log] Checking DOM-based platform detection...
+[10:18:27] [log] Hydration content found: #main
+[10:18:57] [log] Waiting for font layout and response bodies
+[10:18:58] [log] Resources settled
+[10:18:59] [log] Captured HTML and CSSOM (351.4 KB)
+[10:18:59] [ok] Captured 102 network resources total
+[10:18:59] [log]   CSS: 1 | JS: 65 | Images: 23 | Fonts: 3
+[10:19:00] [log] Browser closed
+[10:19:00] [ok] Queued 65 resource(s) declared in HTML but never requested
+[10:19:00] [log] Starting download of 167 assets and their CSS/HTML dependencies
+[10:19:04] [ok] Downloads complete: 178 succeeded, 92 from cache
+[10:19:21] [ok] Lazy-loaded chunks resolved: 26
+[10:19:21] [log] Starting HTML post-processing...
+[10:19:21] [log] HTML size: 351.4 KB
+[10:19:21] [ok] Index HTML pipeline complete
+[10:19:37] [log] Rewrote URLs in 43 JS/CSS files
+[10:19:37] [ok] Captured asset URLs rewritten to local paths
+[10:20:23] [ok] Formatted 91/91 JS/MJS files
+[10:20:23] [log] Writing index.html (382.8 KB)...
+[10:20:23] [ok] index.html written
+[10:20:23] [log] serve.js written
+[10:20:23] [log] package.json written for serve.js
+[10:20:23] [ok] Output build complete
+[10:20:23] [ok] Export complete!
